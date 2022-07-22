@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-import MainView from './MainView';
+import MainView from './View/MainView';
 import './Main.css';
 
 function Main() {
